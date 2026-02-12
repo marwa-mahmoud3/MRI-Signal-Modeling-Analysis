@@ -21,7 +21,7 @@ The scripts take raw MRI sequences and generate precise relaxation curves to det
 
 *(All analysis result are organized in the [/analysis-results](https://github.com/marwa-mahmoud3/MRI-Signal-Modeling-Analysis/tree/main/analysis-results) folder)*
 
-<img width="1671" height="679" alt="Phantom T1" src="https://github.com/user-attachments/assets/a5796ca9-15c3-429b-bc19-160c194ec4aa" />
+<img width="1600" height="900" alt="Cat Before Coffee After Coffee Two Photos And Text Meme" src="https://github.com/user-attachments/assets/1d5ff564-4603-45a2-8e94-21ee251be083" />
 
 
 ---
